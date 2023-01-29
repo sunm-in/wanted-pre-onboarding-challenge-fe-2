@@ -24,6 +24,7 @@
   - 함수 및 클래스의 내부는 구현하지 않습니다.
 - `JSDoc`을 활용해 문서화한다.
 - `GitHub Page`를 활용해 `JSDoc` 정적 페이지를 배포한다.
+  🔗 [배포링크](https://sunm-in.github.io/wanted-pre-onboarding-challenge-fe-2/)
 
 ### Todo
 

@@ -1,0 +1,23 @@
+{
+  "name": "wanted-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs": "jsdoc -c jsdoc.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunm-in/wanted-pre-onboarding-challenge-fe-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunm-in/wanted-pre-onboarding-challenge-fe-2/issues"
+  },
+  "homepage": "https://github.com/sunm-in/wanted-pre-onboarding-challenge-fe-2#readme",
+  "dependencies": {
+    "jsdoc": "^4.0.0"
+  }
+}
